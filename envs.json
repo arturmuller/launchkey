@@ -1,0 +1,10 @@
+{
+  "local": {
+    "API_TOKEN": "foo-bar-baz",
+    "API_ORIGIN": "http://localhost:8080"
+  },
+  "production": {
+    "!API_TOKEN": "ca3361ba49e9b46781c4e369ec4d9716f407c399d97bc61a5bec38855b3e0be985c1ddf5c19eeca6adcba2bc3618afd9mDejpNtCpPb6EqSJBKx6rKaejhtP+CD4JXqOLUgeeMY=",
+    "API_ORIGIN": "https://api.example.com"
+  }
+}
